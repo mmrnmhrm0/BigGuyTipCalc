@@ -1,0 +1,2 @@
+# BigGuyTipCalc
+Big Guys only
